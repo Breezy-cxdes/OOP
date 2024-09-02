@@ -3,3 +3,4 @@ class student:
     print("my grde is",grade)
  #ceating an object outside the class
 obj=student()
+# creating an comment
